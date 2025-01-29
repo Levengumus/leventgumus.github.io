@@ -1,0 +1,27 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<div class="about-me">
+  <p>
+    I am a microeconomist with a research in belief formation and decision-making. I integrate insights from neuroscience, cognitive science, psychology, and economics in my research. I employ a range of theoretical and empirical methodologies &mdash; including formal modeling, laboratory experiments, and Bayesian methods &mdash; to investigate the mechanisms driving systematic deviations from rational benchmarks and their implications for decision-making in both individual and strategic settings.
+  </p>
+  <p>
+    I am currently on the job market and available for interviews.
+  </p>
+</div>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
+
+{% include paginator.html %}
