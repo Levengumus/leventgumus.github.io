@@ -16,8 +16,8 @@ comments: true
 ---
 
 ### *Working Papers*
-## [Beliefs, Reciprocity, Confidence and Trust](https://www.dropbox.com/scl/fi/jqdzoodxzsrlsfi8a6no3/Beliefs_trust_game.pdf?rlkey=jxnm0drfpov8f759hkg6vf4gl&st=ddarn0v2&dl=0)
-*with Mohammed Abdellaoui, Yassine Kaouane, Emmanuel Kemel,and Ferdinand M. Vieider*
+## [Beliefs in Reciprocity, Confidence and Trust](https://www.dropbox.com/scl/fi/jqdzoodxzsrlsfi8a6no3/Beliefs_trust_game.pdf?rlkey=jxnm0drfpov8f759hkg6vf4gl&st=ddarn0v2&dl=0)
+*with Mohammed Abdellaoui, Yassine Kaouane, Emmanuel Kemel, and Ferdinand M. Vieider(2025)*
   <div class="abstract-text" >
    We develop a novel method that allows us to econometrically recover belief distributions from binary choices between bets on different events. We delpoy the method in a strategic context by studying the predictive power of the recovered beliefs about reciprocity on trust. We econometrically recover two measures: a measure of the mean belief of the decision-maker; and a measure of the subjective uncertainty surrounding that mean belief. We show that mean beliefs are a significant predictor of trusting behaviour. Belief uncertainty, however, plays an even more important role in explaining behaviour. We illustrate this by estimating the generalized Arrow-Pratt approximation of our `trust equivalents' under model uncertainty proposed by Maccheroni, Marinacci, and Ruffino (2014). We find aversion to model uncertainty (i.e., uncertainty characterizing the trustor's own belief distribution) to be the single most important driver of trust. This showcases the role of the dispersion of the belief distribution when it comes to explaining behaviour in strategic interactions, and supports multiple-prior models of decision-making under ambiguity.
   </div>
