@@ -6,6 +6,15 @@ author_profile: true
 comments: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGWLD12PGV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGWLD12PGV');
+</script>
 
 ### *Job Market Paper*
 ## [Noisy Coding Model of Confirmation Bias](https://www.dropbox.com/scl/fi/o29airsbinxbumumbz9af/Noisy_Coding_Model_of_Confirmation_Bias.pdf?rlkey=yyo1bmhugekcsoqca604lyz9l&st=ebtwkmd9&dl=0)
