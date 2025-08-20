@@ -17,10 +17,10 @@ comments: true
 </script>
 
 ### *Job Market Paper*
-## [Expectations vs. Evidence: A Cognitive Model of Confirmation Bias](https://www.dropbox.com/scl/fi/n8dlw8rg17xlr09duprej/Expectations_vs__Evidence__A_Cognitive_Model_of_Confirmation_Bias_February_2025.pdf?rlkey=v4pliu7ubvk2rx41144nm0s7n&st=33bpag3e&dl=0)
+## [Expectations vs. Evidence: A Cognitive Model of Confirmation Bias](https://www.dropbox.com/scl/fi/uwlew0irytpt6ja474eth/Expectations_vs__Evidence__A_Cognitive_Model_of_Confirmation_Bias.pdf?rlkey=pkalyjpw9qrafurcsxw1dn7h0&st=7t6crcrk&dl=0)
 *Levent Gumus (2025)*
 <div class="abstract-text">
-  In this paper, I develop a model of confirmation bias, which arises from a cognitive mechanism conceptually linked to the Bayesian brain paradigm and the efficient coding hypothesis in neuroscience. Specifically, I hypothesize that cognitive effort - quantified as the statistical divergence between prior and posterior beliefs -influences the precision of the sampling process, thereby allowing the probability of misperception to emerge endogenously. Consequently, disconfirming evidence, which requires greater cognitive effort to process, attenuates the impact of new information during Bayesian updating, resulting in posterior mean beliefs that are disproportionately influenced by prior mean beliefs.  To test the model's predictions, I conduct an experiment, and I find empirical support for the hypothesis: noise in perceived probabilities increases proportionally with the divergence between the decision-maker's initial expectations and the sample.
+  In this paper, I develop a model of confirmation bias, which arises from a cognitive mechanism conceptually linked to the Bayesian brain paradigm and the efficient coding hypothesis in neuroscience. Specifically, I hypothesize that cost of information processing, quantified as the statistical divergence between prior and posterior beliefs, influences the precision of the sampling process, thereby allowing the probability of misperception to emerge endogenously. Consequently, disconfirming evidence, which are costlier to process, attenuates the impact of new information during Bayesian updating, resulting in posterior mean beliefs that are disproportionately influenced by prior mean beliefs. I further test the assumptions of the model in an experiment and find empirical support for the hypothesis that noise in perceived probabilities increases proportionally with the distance between the DM's initial expectations and the sample.
 </div>
 ---
 
