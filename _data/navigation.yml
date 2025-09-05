@@ -4,8 +4,7 @@ main:
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research"
     url: /Research/
-  - title: "Research Statement"
-    url: https://www.dropbox.com/scl/fi/dh94oelrz444cjgaq4xku/Research_Statement.pdf?rlkey=ie2f96h6lrbpofkrd1jr1dez7&st=lj6vckm6&dl=0
+  
   - title: "CV"
     url: https://www.dropbox.com/scl/fi/fitiaypgrq8bml76b6o4i/CV.pdf?rlkey=w79mbrf3jia8t8gkackf3ug38&st=k7hihxjn&dl=0
   # - title: "Sample Collections"
