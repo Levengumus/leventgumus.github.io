@@ -17,4 +17,6 @@ comments: true
 </script>
 
 ## [CV](https://www.dropbox.com/scl/fi/fitiaypgrq8bml76b6o4i/CV.pdf?rlkey=w79mbrf3jia8t8gkackf3ug38&st=g16x53yc&dl=0)
-<embed src="https://www.dropbox.com/scl/fi/fitiaypgrq8bml76b6o4i/CV.pdf?rlkey=w79mbrf3jia8t8gkackf3ug38&st=g16x53yc&dl=0" width="100%" height="600px" />
+<object data="https://www.dropbox.com/scl/fi/fitiaypgrq8bml76b6o4i/CV.pdf?raw=1" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support embedded PDFs. You can <a href="https://www.dropbox.com/scl/fi/fitiaypgrq8bml76b6o4i/CV.pdf?raw=1">download the CV here</a>.</p>
+</object>
