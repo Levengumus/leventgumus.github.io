@@ -38,9 +38,5 @@ comments: true
   </div>  
 ---
 
-### **Work in Progress**
-## Belief Elicitation Mechanisms :  A Comparative Study
-*Draft coming soon*
-
 
 
