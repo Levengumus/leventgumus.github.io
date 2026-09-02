@@ -25,10 +25,10 @@ comments: true
 ---
 
 ### *Working Papers*
-## [Beliefs in Reciprocity, Confidence and Trust](https://www.dropbox.com/scl/fi/jqdzoodxzsrlsfi8a6no3/Beliefs_trust_game.pdf?rlkey=jxnm0drfpov8f759hkg6vf4gl&st=ddarn0v2&dl=0)
-*with Mohammed Abdellaoui, Yassine Kaouane, and Emmanuel Kemel(2025)*
+## [Unraveling Willingness to Trust under Ambiguity ](https://www.dropbox.com/scl/fi/jqdzoodxzsrlsfi8a6no3/Beliefs_trust_game.pdf?rlkey=jxnm0drfpov8f759hkg6vf4gl&st=ddarn0v2&dl=0)
+*with Mohammed Abdellaoui, Yassine Kaouane, and Emmanuel Kemel(2025)*(Formerly: Beliefs in Reciprocity, Confidence and Trust)
   <div class="abstract-text" >
-   We develop a novel method that allows us to econometrically recover belief distributions from binary choices between bets on different events. We delpoy the method in a strategic context by studying the predictive power of the recovered beliefs about reciprocity on trust. We econometrically recover two measures: a measure of the mean belief of the decision-maker; and a measure of the subjective uncertainty surrounding that mean belief. We show that mean beliefs are a significant predictor of trusting behaviour. Belief uncertainty, however, plays an even more important role in explaining behaviour. We illustrate this by estimating the generalized Arrow-Pratt approximation of our `trust equivalents' under model uncertainty proposed by Maccheroni, Marinacci, and Ruffino (2014). We find aversion to model uncertainty (i.e., uncertainty characterizing the trustor's own belief distribution) to be the single most important driver of trust. This showcases the role of the dispersion of the belief distribution when it comes to explaining behaviour in strategic interactions, and supports multiple-prior models of decision-making under ambiguity.
+   In an experiment, we study willingness to trust when reciprocation probabilities are fundamentally uncertain. We propose a simple method to elicit trustors’ beliefs about reciprocation as second-order subjective distributions over possible reciprocation rates. We then elicit monetary trust equivalents for bets on reciprocation and use an Arrow-Pratt approximation within the smooth ambiguity model to assess how beliefs and ambiguity attitudes shape trust. Using hierarchical Bayesian econometrics, we estimate the distribution’s mean, capturing expected reciprocation, and variance, capturing perceived ambiguity. Accounting for heterogeneity in individual-level parameters, we show that both belief dimensions and ambiguity attitudes affect willingness to trust.
   </div>
 
 ## [Confirmation Bias and Base-Rate Neglect](https://www.dropbox.com/scl/fi/bbnl8ya6ef96kp9g4nyif/Confirmation_Bias_and_Base_Rate.pdf?rlkey=ov8gzmqh757btbcgewzwg66v6&st=wkr8cxtk&dl=0)
