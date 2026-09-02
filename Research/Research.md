@@ -26,11 +26,13 @@ comments: true
 
 ### *Working Papers*
 ## [Unraveling Willingness to Trust under Ambiguity(Submitted) ](https://www.dropbox.com/scl/fi/jqdzoodxzsrlsfi8a6no3/Beliefs_trust_game.pdf?rlkey=jxnm0drfpov8f759hkg6vf4gl&st=ddarn0v2&dl=0)
-<span style="font-size: 0.7em;">
-  <em>Formerly: Beliefs in Reciprocity, Confidence and Trust</em>
-</span>
+
 <span style="font-size: 0.9em;">
   <em>with Mohammed Abdellaoui, Yassine Kaouane, and Emmanuel Kemel (2026)</em>
+</span>
+
+<span style="font-size: 0.7em;">
+  <em>Formerly: Beliefs in Reciprocity, Confidence and Trust</em>
 </span>
   <div class="abstract-text" >
    In an experiment, we study willingness to trust when reciprocation probabilities are fundamentally uncertain. We propose a simple method to elicit trustors’ beliefs about reciprocation as second-order subjective distributions over possible reciprocation rates. We then elicit monetary trust equivalents for bets on reciprocation and use an Arrow-Pratt approximation within the smooth ambiguity model to assess how beliefs and ambiguity attitudes shape trust. Using hierarchical Bayesian econometrics, we estimate the distribution’s mean, capturing expected reciprocation, and variance, capturing perceived ambiguity. Accounting for heterogeneity in individual-level parameters, we show that both belief dimensions and ambiguity attitudes affect willingness to trust.
