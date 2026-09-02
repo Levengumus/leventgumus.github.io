@@ -28,7 +28,7 @@ comments: true
 ## [Unraveling Willingness to Trust under Ambiguity(Submitted) ](https://www.dropbox.com/scl/fi/jqdzoodxzsrlsfi8a6no3/Beliefs_trust_game.pdf?rlkey=jxnm0drfpov8f759hkg6vf4gl&st=ddarn0v2&dl=0)
 <span style="font-size: 0.7em;">
   <em>Formerly: Beliefs in Reciprocity, Confidence and Trust</em>
-</span>*(*
+</span>
 <span style="font-size: 0.9em;">
   <em>with Mohammed Abdellaoui, Yassine Kaouane, and Emmanuel Kemel (2026)</em>
 </span>
